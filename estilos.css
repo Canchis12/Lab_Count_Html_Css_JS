@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: rgb(145, 193, 224);
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .container {
+    display: inline-block;
+    padding: 20px;
+    background: rgb(122, 173, 209);
+    border-radius: 10px;
+    box-shadow: 0 10px rgba(1, 2, 3, 0.2);
+  }
+  
+  #contador {
+    margin-bottom: 20px;
+    color: rgb(15, 87, 117);
+    transition: color 0.3s ease;
+  }
+  
+  button {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    background: rgb(88, 139, 175);
+    box-shadow: 0 5px rgba(1, 2, 2, 0.2);
+    border: none;
+    color: rgb(35, 81, 114);
+    cursor: pointer;
+  }
+  
+  .aumento {
+    color: rgb(33, 110, 26);
+  }
+  
